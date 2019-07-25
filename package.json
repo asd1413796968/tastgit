@@ -1,0 +1,19 @@
+{
+  "name": "tastgit",
+  "version": "1.0.0",
+  "description": "学习 git\r v1 开发版本一\r v2 开发版本\r v2.1 马建龙是个愣头青",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asd1413796968/tastgit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asd1413796968/tastgit/issues"
+  },
+  "homepage": "https://github.com/asd1413796968/tastgit#readme"
+}
